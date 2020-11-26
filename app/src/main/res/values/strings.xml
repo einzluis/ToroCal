@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">eToroCalculator</string>
+    <string name="strInvested">Invested: $</string>
+    <string name="strValue">Value: $</string>
+    <string name="strPercent">P/L (%): </string>
+    <string name="strAmount">P/L ($): $</string>
+    <string name="percentSign">%</string>
+    
+    <string-array name="Instruments">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>BCH</item>
+        <item>XRP</item>
+        <item>DASH</item>
+        <item>LTC</item>
+        <item>ETC</item>
+        <item>ADA</item>
+        <item>MIOTA</item>
+        <item>XLM</item>
+    </string-array>
+</resources>
